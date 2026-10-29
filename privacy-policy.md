@@ -1,6 +1,6 @@
 # Privacy Policy / Maxfiylik siyosati / Политика конфиденциальности
 
-Sana / Дата / Date: 2026-10-06
+Sana / Дата / Date: 2026-10-29
 
 - [O‘zbekcha](#ozbekcha)
 - [Русский](#русский)
@@ -10,7 +10,7 @@ Sana / Дата / Date: 2026-10-06
 
 ## O‘zbekcha
 
-**Ishlab chiquvchi:** razicoff. **Ilova:** MMineTest Tayyorgarlik (paket: `uz.mminetest.tayyorgarlik`).
+**Ishlab chiquvchi:** razicoff. **Ilova:** KonZiyo ISS Test / MMineTest Tayyorgarlik (paket: `uz.mminetest`).
 
 **Shaxsiy ma’lumotlar.** Ilova hech qanday shaxsiy ma’lumotni yig‘maydi, saqlamaydi va uzatmaydi. Ro‘yxatdan o‘tish yoki hisob yaratish talab qilinmaydi.
 
@@ -28,7 +28,7 @@ Sana / Дата / Date: 2026-10-06
 
 ## Русский
 
-**Разработчик:** razicoff. **Приложение:** MMineTest Подготовка (пакет: `uz.mminetest.tayyorgarlik`).
+**Разработчик:** razicoff. **Приложение:** KonZiyo ISS Test / MMineTest Подготовка (пакет: `uz.mminetest`).
 
 **Персональные данные.** Приложение не собирает, не хранит и не передаёт никаких персональных данных. Регистрация и создание учётной записи не требуются.
 
@@ -46,7 +46,7 @@ Sana / Дата / Date: 2026-10-06
 
 ## English
 
-**Developer:** razicoff. **App:** MMineTest Tayyorgarlik (package: `uz.mminetest.tayyorgarlik`).
+**Developer:** razicoff. **App:** KonZiyo ISS Test / MMineTest Tayyorgarlik (package: `uz.mminetest`).
 
 **Personal data.** The app does not collect, store, or transmit any personal data. No registration or account is required.
 
